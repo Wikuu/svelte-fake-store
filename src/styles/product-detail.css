@@ -1,0 +1,16 @@
+.title {
+  margin-bottom: 20px;
+}
+
+.product-detail-image {
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
+
+.product-detail-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

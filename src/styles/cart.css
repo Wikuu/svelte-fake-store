@@ -1,0 +1,26 @@
+.quantity-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.quantity-actions button {
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.important-text {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.bx--structured-list-td {
+  vertical-align: middle;
+}
+
+.toaster {
+  position: absolute;
+  top: 5%;
+  right: 0;
+}
