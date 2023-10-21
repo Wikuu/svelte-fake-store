@@ -51,11 +51,4 @@
 
 <Content>
   <slot />
-  <!-- <Grid>
-      <Row padding>
-        {#each products as product}
-          <Product {product} />
-        {/each}
-      </Row>
-    </Grid> -->
 </Content>
