@@ -1,5 +1,5 @@
 # svelte-fake-store
-Fake store app made via Svelte
+Fake store app made via Svelte + Typescript
 
 Additional Packages
 
